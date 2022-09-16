@@ -1,4 +1,5 @@
-### Hi there 👋
+# KrisOnCode
+### Let's Build something!
 
 <!--
 **KrisOnCode/KrisOnCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
