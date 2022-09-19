@@ -1,6 +1,17 @@
 # KrisOnCode
 ### Let's Build something!
 
+#### My Technologies
+- React
+- Java
+- Spring
+- Microsoft SQL Server
+- JavaScript
+- Firebase
+- Bootstrap
+- Tailwind
+- Sass
+
 <!--
 **KrisOnCode/KrisOnCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
